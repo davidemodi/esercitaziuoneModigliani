@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 package ciclo1to10;
 
 /**
@@ -17,7 +16,7 @@ public class Ciclo1to10 {
      */
     public static void main(String[] args) {
         for (int i=1; i<11; i++){
-             System.out.println("Il numero è: "+i);
+             System.out.println("Il numero stampato è: "+i);
         }
     }
 
